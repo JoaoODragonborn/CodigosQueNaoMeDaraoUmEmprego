@@ -1,0 +1,11 @@
+#include "cebasico."
+
+cebasico::cebasico()
+{
+    //ctor
+}
+
+cebasico::~cebasico()
+{
+    //dtor
+}

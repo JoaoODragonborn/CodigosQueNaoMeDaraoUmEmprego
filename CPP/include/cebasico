@@ -1,0 +1,16 @@
+#ifndef CEBASICO_
+#define CEBASICO_
+
+
+class cebasico
+{
+    public:
+        cebasico();
+        virtual ~cebasico();
+
+    protected:
+
+    private:
+};
+
+#endif // CEBASICO_
